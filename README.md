@@ -160,7 +160,7 @@ Which gets uploaded into Python to merge with a dataset on child obesity rates b
 <br/>
 
 The following wrangling is for obseity and activity exercise and TV consumption.
-First import pandas library so that we can update the raw data to have the columns that we are interested in and to clean the data for any errors that might be in the raw data.
+First import pandas library so that we can update the raw data to have the columns that we are interested in and to clean the data for any errors that might be in the raw data.<br/>
 ![image40](elena/1.png)<br/>
 For the first data set, we were only interested in the state, year, question/answer and the category of the answer. In this case, we want to know what percent of youths are obese in each state. We also want to know the category as we only need to total amount rather than the individual breakdown such as male or female. After getting the columns, they were renamed to make it easier to create visuals in Tableau.
 ![image41](elena/2.png)
