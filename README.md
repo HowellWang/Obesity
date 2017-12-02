@@ -333,4 +333,4 @@ https://www.cde.ca.gov/ls/fa/sf/peguidemidhi.asp
 
 
 ## <a name="8"></a>Showcase video
-[Youtube vedio Link](https://youtu.be/u3XaEi39GxY)
+[Youtube video Link](https://youtu.be/u3XaEi39GxY)
