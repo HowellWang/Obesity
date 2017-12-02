@@ -328,7 +328,7 @@ https://www.opensecrets.org/industries/indus.php?ind=A1200
 US Physical Education:
 http://healthland.time.com/2011/12/07/childhood-obesity-most-u-s-schools-dont-require-p-e-class-or-recess/
 
-PE guidelines for california:
+PE guidelines for California:
 https://www.cde.ca.gov/ls/fa/sf/peguidemidhi.asp
 
 
