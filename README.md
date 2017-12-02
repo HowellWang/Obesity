@@ -31,7 +31,7 @@ This README file contains the following project delieverables
 Obesity in the United States has been a growing issue for the past few decades. We are interested to know what factors lead to obesity in this nation. Some claim that obesity goes hand-in-hand with poverty because underprivileged people live in neighborhoods where there have access to nearby parks. Because of this, they don’t get the opportunity to exercise since they don’t have many options and are forced to stay at home most of time. In addition, underprivileged people don’t have affordable grocery stores and healthy restaurants within walking distance, so they are limited to only cheap fast food chains. However some may argue that obesity rates are also rising amongst the rich, which leads us to believe that this growing issue is linked to a person's lifestyle and his/her choices. <br/>
 So in this project, we will analyze the possible causes for obesity from various perspectives.
 
-###Objective
+### Objective
  We intend to expose the factors behind this complex issue in order to educate future parents and raise awareness. 
 ### Data: 
 Together, we found and used following data:<br/>
